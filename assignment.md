@@ -29,9 +29,7 @@ Please email us a zipped folder containing your work, or you may put your soluti
   - how to install dependencies.
   - how to build your program.
   - how to run your program, with example commands on how to run it if necessary.
-
-3. A one- or two-paragraph write-up describing, at a high level, what would you do differently if
-  - you were asked to build this as a full-scale web application.
+3. A one- or two-paragraph write-up describing, at a high level, what would you do differently if you were asked to build this as a full-scale web application.
 
 # Submission Notes
 We recommend you spend roughly two hours on this project.
